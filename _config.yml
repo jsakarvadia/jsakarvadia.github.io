@@ -21,7 +21,7 @@ repository               : "jsakarvadia/jsakarvadia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "website profile pic larger.jpg"
+  avatar           : "website profile pic smaller.jpg"
   name             : "Jay Sakarvadia"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
