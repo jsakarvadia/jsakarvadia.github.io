@@ -24,9 +24,9 @@ author:
   avatar           : "website profile pic smaller.jpg"
   name             : "Jay Sakarvadia"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Studying Computer Science, Economics, & Statistics. Current interest: Causal Machine Learning & Heterogeneous Treatment Effects"
   location         : "Earth"
-  employer         : "University of North Carolina at Chapel Hill"
+  employer         : "UNC Chapel Hill"
   uri              : # URL
   email            : "jay.sakarvadia@gmail.com" 
 
