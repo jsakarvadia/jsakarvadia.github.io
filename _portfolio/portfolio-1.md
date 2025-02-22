@@ -26,3 +26,4 @@ Causal insights are extracted from interdisciplinary literature in healthcare, b
 
 ## Impact
 - By applying these methodologies, this study aims to optimize decision-making processes in hospitals, ensuring that institutions can make data-driven choices to enhance efficiency and effectiveness.
+---
