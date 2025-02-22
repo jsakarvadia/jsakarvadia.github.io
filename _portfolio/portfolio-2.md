@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning on Battery Cycling Data for Health Estimation"
-excerpt: ".<br/><img src='/images/Final] Machine Learning on Battery Cycling Data for Health Estimation.pptx.png'>"
+excerpt: "<br/><img src='/images/Final] Machine Learning on Battery Cycling Data for Health Estimation.pptx.png'>"
 collection: portfolio
 ---
 
