@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jay Sakarvadia | A Personal Website""
+title: "Jay Sakarvadia | A Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
