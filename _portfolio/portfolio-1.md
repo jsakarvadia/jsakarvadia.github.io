@@ -1,6 +1,6 @@
 ---
 title: "Synthesizing Knowledge from Science for Performance Management Decisions"
-excerpt: "Effective decision-making in complex environments, such as healthcare and business, requires more than intuitive cause-and-effect reasoning.<br/><img src='/images/[Poster] Synthesizing Knowledge From Science for Performance Management Decisions.pptx.png'>"
+excerpt: "<br/><img src='/images/[Poster] Synthesizing Knowledge From Science for Performance Management Decisions.pptx.png'>"
 collection: portfolio
 ---
 
