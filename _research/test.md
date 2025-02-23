@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "This is a test to see if it works"
 collection: research
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
