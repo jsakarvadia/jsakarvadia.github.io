@@ -2,8 +2,8 @@
 title: "Identifying and Optimizing I/O Bottlenecks in Deep Learning Model Training on Supercomputers"
 collection: research
 category: projects
-permalink: /research/Identifying-and-Optimizing-I/O-Bottlenecks-in-Deep-Learning-Model-Training-on-Supercomputers
-excerpt: 'Utilizing profilers and tracers to analyze I/O and GPU activity for optimizing large-scale deep learning model training on supercomputers.'
+permalink: /research/Identifying-and-Optimizing-IO-Bottlenecks-in-Deep-Learning-Model-Training-on-Supercomputers
+excerpt: 'Utilizing profilers and tracers to analyze I/O and GPU activity in order to optimize large-scale deep learning model training on supercomputers.'
 date: 2023-08-15
 venue: 'Argonne National Laboratory's Learning on The Lawn Summer Research Conference'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
