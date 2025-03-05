@@ -1,5 +1,5 @@
 ---
-title: "This is a test to see if it works"
+title: "This is a test to see if it work"
 collection: research
 category: manuscripts
 permalink: /research/test
