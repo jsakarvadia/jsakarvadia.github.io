@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning on Electric Vehicle Lithium-Ion Battery Cycling Data for Health Estimation"
 collection: research
-category: conferences
+category: projects
 permalink: /research/Machine-Learning-on-Electric-Vehicle-Lithium-Ion-Battery-Cycling-Data-for-Health-Estimation
 excerpt: 'Leveraging machine/deep learning techniques while engineering new input features to enhance lithium-ion battery health estimation in electric vehicles.'
 date: 2023-02-05
