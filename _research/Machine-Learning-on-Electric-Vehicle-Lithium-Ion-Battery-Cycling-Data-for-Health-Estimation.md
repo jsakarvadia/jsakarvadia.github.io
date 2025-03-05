@@ -4,8 +4,8 @@ collection: research
 category: conferences
 permalink: /research/Machine-Learning-on-Electric-Vehicle-Lithium-Ion-Battery-Cycling-Data-for-Health-Estimation
 excerpt: 'Leveraging machine/deep learning techniques while engineering new input features to enhance lithium-ion battery health estimation in electric vehicles.'
-date: 2023-05-01
-venue: 'UNC Charlotte''s 2023 Undergraduate Research Conference'
+date: 2023-05
+venue: 'UNC Charlotte''s Undergraduate Research Conference'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
