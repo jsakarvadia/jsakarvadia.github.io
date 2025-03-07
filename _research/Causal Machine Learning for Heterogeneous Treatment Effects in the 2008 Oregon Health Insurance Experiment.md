@@ -1,5 +1,5 @@
 ---
-title: "Causal Machine Learning for Heterogeneous Treatment Effects in the 2008 Oregon Health Insurance Experiment"
+title: "Causal Machine Learning for Heterogeneous Treatment Effect Estimation in the 2008 Oregon Health Insurance Experiment"
 collection: research
 category: projects
 permalink: /research/Causal-Machine-Learning-for-Heterogeneous Treatment-Effects-in-the-2008-Oregon-Health-Insurance-Experiment
