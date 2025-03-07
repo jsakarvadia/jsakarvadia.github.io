@@ -4,7 +4,7 @@ collection: research
 category: projects
 permalink: /research/Causal-Machine-Learning-for-Heterogeneous Treatment-Effects-in-the-2008-Oregon-Health-Insurance-Experiment
 excerpt: 'Using modern causal machine learning methods to uncover Medicaid''s heterogeneous treatment effects on health markers across different groups'
-date: 2023-08-03
+date: 2025-05-09
 venue: '[insert here later]'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
