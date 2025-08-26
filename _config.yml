@@ -25,7 +25,7 @@ author:
   name             : "Jay Sakarvadia"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Earth"
+  location         : #"Earth"
   employer         : "UNC Chapel Hill"
   uri              : # URL
   email            : "jay.sakarvadia@gmail.com" 
