@@ -6,8 +6,9 @@ permalink: /research/Identifying-and-Optimizing-IO-Bottlenecks-in-Deep-Learning-
 excerpt: 'Utilizing profilers and tracers to analyze I/O and GPU activity in order to optimize large-scale deep learning model training on supercomputers.'
 date: 2023-08-03
 venue: 'Argonne National Laboratory''s Learning on The Lawn Summer Research Conference'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+posterurl: 'http://academicpages.github.io/files/paper2.pdf'
 display_label: "Presented"
 display_preposition: "at"
 # citation: 'Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).'

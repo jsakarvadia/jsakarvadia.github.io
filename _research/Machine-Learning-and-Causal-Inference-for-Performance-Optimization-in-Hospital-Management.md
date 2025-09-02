@@ -6,8 +6,9 @@ permalink: /research/Machine-Learning-and-Causal-Inference-for-Performance-Optim
 excerpt: 'Building a data-driven system grounded in machine learning and causal inference for hospital performance management.'
 date: 2022-08-05
 venue: 'UNC Charlotte''s Summer Research Symposium'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+posterurl: 'https://drive.google.com/file/d/19bViYsp7npm_LrMLesdQDcuHvMytspMn/view?usp=sharing'
 display_label: "Presented"
 display_preposition: "at"
 # citation: 'Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).'

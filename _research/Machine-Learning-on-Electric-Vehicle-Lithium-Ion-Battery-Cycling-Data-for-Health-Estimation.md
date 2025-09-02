@@ -6,8 +6,9 @@ permalink: /research/Machine-Learning-on-Electric-Vehicle-Lithium-Ion-Battery-Cy
 excerpt: 'Leveraging machine/deep learning techniques while engineering new input features to enhance lithium-ion battery health estimation in electric vehicles.'
 date: 2023-04-25
 venue: 'UNC Charlotte''s Undergraduate Research Conference'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+posterurl: 'https://drive.google.com/file/d/1ibR-P9XbRbTqmxc84qv7ED7LxIaP3QS4/view?usp=sharing'
 display_label: "Presented"
 display_preposition: "at"
 # citation: 'Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).'
