@@ -1,9 +1,9 @@
 ---
-title: "Machine Learning and Causal Inference for Performance Optimization in Hospital Management"
+title: "Synthesizing Knowledge From Science for Performance Management Decisions"
 collection: research
 category: projects
 permalink: /research/Machine-Learning-and-Causal-Inference-for-Performance-Optimization-in-Hospital-Management
-excerpt: 'Building a data-driven system grounded in machine learning and causal inference for hospital performance management.'
+excerpt: 'Contributed to the development of a data-driven decision-making system that integrates causal inference and machine learning to improve hospital performance management.'
 date: 2022-08-05
 venue: 'UNC Charlotte''s Summer Research Symposium'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'

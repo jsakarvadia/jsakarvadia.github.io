@@ -3,14 +3,14 @@ title: "Causal Machine Learning for Heterogeneous Treatment Effect Estimation in
 collection: research
 category: projects
 permalink: /research/Causal-Machine-Learning-for-Heterogeneous Treatment-Effects-in-the-2008-Oregon-Health-Insurance-Experiment
-excerpt: 'Using modern causal machine learning methods to uncover Medicaid''s heterogeneous treatment effects on health markers across different groups'
+excerpt: 'Using causal machine learning methods to uncover heterogeneous treatment effects in the OHIE and develop policy targeting algorithms that maximize the impact of Medicaid expansion.'
 date: 2025-05-09
-venue: '[insert here later]'
+venue: "UNC's Celebration of Undergraduate Research"
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 #posterurl: 'http://academicpages.github.io/files/poster2.pdf'
-display_label: "[insert here later]"
-display_preposition: "[insert here later]"
+display_label: "Presenting"
+display_preposition: "at"
 # citation: 'Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).'
 ---
 
