@@ -8,6 +8,7 @@ date: 2025-05-09
 venue: '[insert here later]'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+posterurl: 'http://academicpages.github.io/files/poster2.pdf'
 display_label: "[insert here later]"
 display_preposition: "[insert here later]"
 # citation: 'Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).'
