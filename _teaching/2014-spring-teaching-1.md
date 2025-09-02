@@ -5,6 +5,7 @@ type: "Advanced undergraduate/graduate teaching material"
 permalink: /teaching/causal-machine-learning
 venue: "UNC Chapel Hill, Department of Economics"
 date: 2025-01-05
+slidesurl: 'https://drive.google.com/drive/folders/1y1CGI9Nwkkc9p9G1YBzIPfYqdIeWv7fc?usp=sharing'
 location: "Chapel Hill, NC"
 ---
 
