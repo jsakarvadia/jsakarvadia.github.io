@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: ""
+title: "Hi, I'm Jay! Welcome to my personal website."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Hi, I'm Jay! Welcome to my personal website.  
 
 I'm a rising senior pursuing a B.S. in Economics and Computer Science, with a minor in Statistics.  
 
