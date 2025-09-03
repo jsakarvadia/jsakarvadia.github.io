@@ -5,7 +5,7 @@ category: projects
 permalink: /research/Causal-Machine-Learning-for-Heterogeneous Treatment-Effects-in-the-2008-Oregon-Health-Insurance-Experiment
 excerpt: 'Using causal machine learning methods to uncover heterogeneous treatment effects in the OHIE and develop policy targeting algorithms that maximize the impact of Medicaid expansion.'
 date: 2026-05-09
-venue: "UNC's Celebration of Undergraduate Research"
+venue: "UNC Chapel Hill's Celebration of Undergraduate Research"
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 #posterurl: 'http://academicpages.github.io/files/poster2.pdf'
