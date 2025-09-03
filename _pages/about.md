@@ -7,24 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-I'm a rising senior pursuing a B.S. in Economics and Computer Science, with a minor in Statistics.  
+I'm a rising senior at [UNC Chapel Hill](https://www.unc.edu/)  pursuing a B.S. in Economics and Computer Science, with a minor in Statistics.  
 
-My academic journey has been shaped by diverse research experiences, including:  
-- Improving hospital performance management via decision models grounded in causal inference  
-- Machine learning enabled health estimation and degredation prediction for lithium-ion batteries in electric vehicles  
-- Optimizing data movement on supercomputers for deep learning model training at [Argonne National Laboratory](https://www.anl.gov/)  
+My academic journey has been shaped by diverse research experiences. I'm currently interested in causal machine learning, particularly its use in treatment effect estimation, heterogeneity analysis, and policy learning from both experimental and observational data. More broadly I'm interested in causal inference, machine learning, and econometrics.
 
-Recently, I’ve developed a strong interest in causal machine learning and am currently undertaking an independent study in which I am strengthening and expanding my foundation in causal inference, econometrics, statistics, and machine learning. More specifically, I am exploring machine learning-based methodologies for heterogeneous treatment effect estimation in randomized controlled trials and observational studies. This study is guided by select chapters from the recently released [CausalMLBook](https://causalml-book.org/).
+I was first introduced to this field of work during my first research project but came to really appreciate it during my study abroad at the  [London School of Economics and Political Science ](https://www.lse.ac.uk/). I took courses in advanced econometrics and machine learning and it was there that I came to appreciate how the two fields overlap and diverge. I learned how they can be combined not only to model associations, but to learn causal relationships and predict outcomes under alternative interventions and policies.
 
-Ultimately, my goal is to pursue a Ph.D. where I can integrate my interests in machine learning, econometrics, and causal inference to:  
-- Develop advanced methodologies for understanding complex economic and social systems,  
-- Improve decision-making through data-driven causal insights, and  
-- Contribute to both the theoretical and applied advancements of causal AI/ML in policy, business, and science.  
+I've also completed research projects in other academic areas but still had elements of machine learning. I engineered novel features to estimate electric vehicle battery health with neural networks, achieving high out-of-sample accuracy. At [Argonne National Laboratory](https://www.anl.gov/), I analyzed I/O bottlenecks in supercomputers running particle-physics deep learning workloads, identifying a key data movement bottlenecks.
+
+Currently I'm working on using causal machine learning methods to uncover heterogeneous treatment effects in the 2008 Oregon Health Insurance Experiment and develop policy targeting algorithms that maximize the impact of Medicaid expansion.
+
+Ultimately, I aim to pursue a Ph.D. integrating causal inference, econometrics, and machine learning to:
+
+- Develop new methods for understanding complex economic and social systems
+- Improve decision-making through robust causal insights
+- Advance the theory and applications of causal AI/ML in policy, business, health, and science
+  
 
 ### Other Interests  
-Outside of research and academics, I enjoy:  
-🎵 Listening to music  
-✈️ Traveling  
-🏋️ Spending time in the gym  
+Outside of research and academics, I enjoy: 
 
-Feel free to reach out using any of the social links on this page! 🚀  
+- Learning/playing chess
+- Learning/playing game theory optimal (GTO) poker
+- Staying active, either in nature or the gym
+- Listening to new music
+- Traveling
+
+Feel free to reach out using any of the social links on the left side this page!
