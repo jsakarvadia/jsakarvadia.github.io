@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a rising senior at [UNC Chapel Hill](https://www.unc.edu/)  pursuing a B.S. in Economics and Computer Science, with a minor in Statistics.  
+I'm a senior at [UNC Chapel Hill](https://www.unc.edu/)  pursuing a B.S. in Economics and Computer Science, with a minor in Statistics.  
 
 My academic journey has been shaped by diverse research experiences. I'm currently interested in causal machine learning, particularly its use in treatment effect estimation, heterogeneity analysis, and policy learning from both experimental and observational data. More broadly I'm interested in causal inference, machine learning, and econometrics.
 
