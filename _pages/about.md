@@ -9,11 +9,11 @@ redirect_from:
 
 I'm a senior at [UNC Chapel Hill](https://www.unc.edu/)  pursuing a B.S. in Economics and Computer Science, with a minor in Statistics.  
 
-My academic journey has been shaped by diverse research experiences. I'm currently interested in causal machine learning, particularly its use in treatment effect estimation, heterogeneity analysis, and policy learning from both experimental and observational data. More broadly, I'm interested in causal inference, machine learning, and econometrics.
+My academic journey has been shaped by diverse research experiences. I'm currently interested in causal machine learning, particularly its use in treatment effect estimation, heterogeneity analysis, and policy learning from both experimental and observational data.
 
 Currently I'm working on using causal machine learning methods to uncover heterogeneous treatment effects in the 2008 Oregon Health Insurance Experiment and develop policy targeting algorithms that maximize the impact of Medicaid expansion.
 
-**I aim to pursue a Ph.D. integrating causal inference, econometrics, and machine learning to**:
+**I aim to pursue a Ph.D. broadly integrating causal inference, econometrics, and machine learning to**:
 
 - Develop new methods for understanding complex economic and social systems
 - Improve decision-making through robust causal insights
