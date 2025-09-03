@@ -13,7 +13,7 @@ My academic journey has been shaped by diverse research experiences. I'm current
 
 Currently I'm working on using causal machine learning methods to uncover heterogeneous treatment effects in the 2008 Oregon Health Insurance Experiment and develop policy targeting algorithms that maximize the impact of Medicaid expansion.
 
-Ultimately, I aim to pursue a Ph.D. integrating causal inference, econometrics, and machine learning to:
+**I aim to pursue a Ph.D. integrating causal inference, econometrics, and machine learning to**:
 
 - Develop new methods for understanding complex economic and social systems
 - Improve decision-making through robust causal insights
