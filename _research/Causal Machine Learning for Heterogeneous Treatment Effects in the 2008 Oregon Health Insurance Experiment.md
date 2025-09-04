@@ -9,7 +9,7 @@ venue: "UNC Chapel Hill's Celebration of Undergraduate Research"
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 #posterurl: 'http://academicpages.github.io/files/poster2.pdf'
-display_label: "Presenting"
+display_label: "(Ongoing), Presenting"
 display_preposition: "at"
 # citation: 'Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).'
 ---
