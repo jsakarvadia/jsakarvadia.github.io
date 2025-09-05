@@ -11,7 +11,7 @@ I'm a senior at [UNC Chapel Hill](https://www.unc.edu/)  pursuing a B.S. in Econ
 
 My academic journey has been shaped by diverse research experiences. I'm currently interested in causal machine learning, particularly its use in treatment effect estimation, heterogeneity analysis, and policy learning from both experimental and observational data.
 
-Currently I'm working on using causal machine learning methods to uncover heterogeneous treatment effects in the 2008 Oregon Health Insurance Experiment and develop policy targeting algorithms that maximize the impact of Medicaid expansion.
+My ongoing research is focused on using causal machine learning methods to uncover heterogeneous treatment effects in the 2008 Oregon Health Insurance Experiment and develop policy targeting algorithms that maximize the impact of Medicaid expansion.
 
 **I aim to pursue a Ph.D. broadly integrating causal inference, econometrics, and machine learning to**:
 
