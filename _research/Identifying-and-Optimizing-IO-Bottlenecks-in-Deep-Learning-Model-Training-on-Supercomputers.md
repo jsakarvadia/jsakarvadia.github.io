@@ -1,5 +1,5 @@
 ---
-title: "Profiling IO Behavior of a Particle-Physics Distributed Deep Learning Workload on the Polaris Supercomputer"
+title: "Profiling I/O Behavior of a Particle-Physics Distributed Deep Learning Workload on the Polaris Supercomputer"
 collection: research
 category: projects
 permalink: /research/Profiling-IO-Behavior-of-a-Particle-Physics Distributed-Deep-Learning-Workload-on-the-Polaris-Supercomputer
