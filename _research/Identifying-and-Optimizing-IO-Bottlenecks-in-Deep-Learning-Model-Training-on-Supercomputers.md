@@ -1,14 +1,14 @@
 ---
-title: "Identifying and Optimizing I/O Bottlenecks in Deep Learning Model Training on Supercomputers"
+title: "Profiling IO Behavior of a Particle-Physics Distributed Deep Learning Workload on the Polaris Supercomputer"
 collection: research
 category: projects
-permalink: /research/Identifying-and-Optimizing-IO-Bottlenecks-in-Deep-Learning-Model-Training-on-Supercomputers
+permalink: /research/Profiling-IO-Behavior-of-a-Particle-Physics Distributed-Deep-Learning-Workload-on-the-Polaris-Supercomputer
 excerpt: 'Utilizing profilers and tracers to analyze I/O and GPU activity in order to optimize large-scale deep learning model training on supercomputers.'
 date: 2023-08-03
 venue: 'Argonne National Laboratory''s Learning on The Lawn Summer Research Conference'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-#paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-posterurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://drive.google.com/file/d/16ZJ7nTYQNC8zkdU-heT7gn4j1FmMLGCo/view?usp=sharing'
+posterurl: 'https://drive.google.com/file/d/1Zq2On1txC2-BGxUahsy0vmreCEBePWRG/view?usp=sharing'
 display_label: "Presented"
 display_preposition: "at"
 # citation: 'Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).'
