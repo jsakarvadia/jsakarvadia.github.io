@@ -7,8 +7,8 @@ excerpt: 'Utilizing profilers and tracers to analyze I/O and GPU activity in ord
 date: 2023-08-03
 venue: 'Argonne National Laboratory''s Learning on The Lawn Summer Research Conference'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://drive.google.com/file/d/16ZJ7nTYQNC8zkdU-heT7gn4j1FmMLGCo/view?usp=sharing'
-posterurl: 'https://drive.google.com/file/d/1Zq2On1txC2-BGxUahsy0vmreCEBePWRG/view?usp=sharing'
+paperurl: 'https://drive.google.com/file/d/1uujv7OjuejBdGYdvDTD_8Zkvv0FBX1aS/view?usp=sharing'
+posterurl: 'https://drive.google.com/file/d/1HSnfMZDYC3tcjDub2AFXzd2SgxDFdzfM/view?usp=sharing'
 display_label: "Presented"
 display_preposition: "at"
 # citation: 'Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).'
