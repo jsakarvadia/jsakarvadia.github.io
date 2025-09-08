@@ -1,8 +1,8 @@
 ---
-title: "Profiling I/O Behavior of a Particle-Physics Distributed Deep Learning Workload on the Polaris Supercomputer"
+title: "Profiling I/O Behavior of a Particle-Physics Distributed Deep Learning Workload on Supercomputers"
 collection: research
 category: projects
-permalink: /research/Profiling-IO-Behavior-of-a-Particle-Physics Distributed-Deep-Learning-Workload-on-the-Polaris-Supercomputer
+permalink: /research/Profiling-IO-Behavior-of-a-Particle-Physics Distributed-Deep-Learning-Workload-on-Supercomputers
 excerpt: 'Utilizing profilers and tracers to analyze I/O and GPU activity in order to optimize large-scale deep learning model training on supercomputers.'
 date: 2023-08-03
 venue: 'Argonne National Laboratory''s Learning on The Lawn Summer Research Conference'
