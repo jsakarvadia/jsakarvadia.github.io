@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="files/Jay Sakarvadia - CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="https://drive.google.com/file/d/1j12TEDdgqiRcDFqiYrHBoa64x7Efv2mO/view?usp=sharing" width="100%" height="500"></iframe>
 
-You can download a PDF copy of my CV [here](files/Jay Sakarvadia - CV.pdf).
+You can download a PDF copy of my CV <a href="https://drive.google.com/file/d/1j12TEDdgqiRcDFqiYrHBoa64x7Efv2mO/view?usp=sharing">here</a>.
+
