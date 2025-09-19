@@ -32,4 +32,4 @@ Outside of research and academics, I enjoy:
 - Listening to new music
 - Traveling
 
-Feel free to reach out using any of the social links on the left side this page!
+Feel free to reach out using any of the social links on the left side of this page!
