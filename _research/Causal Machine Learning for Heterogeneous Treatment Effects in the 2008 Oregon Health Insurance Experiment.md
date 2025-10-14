@@ -1,5 +1,5 @@
 ---
-title: "Heterogeneity in the Effects of Medicaid A Causal Machine Learning Analysis of the Oregon Health Insurance Experiment"
+title: "Heterogeneity in the Effects of Medicaid: A Causal Machine Learning Analysis of the Oregon Health Insurance Experiment"
 collection: research
 category: projects
 permalink: /research Heterogeneity-in-the-Effects-of-Medicaid-A-Causal-Machine-Learning-Analysis-of-the-Oregon-Health-Insurance-Experiment
